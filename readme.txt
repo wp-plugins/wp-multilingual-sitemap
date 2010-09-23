@@ -86,7 +86,7 @@ In addition, for the `[wpms-posts]` shortcode, you can set another two params:
 * _**'title_li'**_: (string) the title and style of the outer list item. Defaults to "Posts". If empty, the title will be not displayed.
 * _**'style'**_: style to display the categories list. The value 'list' displays the categories as list items while empty value generates no special display method (the list items are separated by `<br>` tags). The default value is list (creates list items for an unordered list). 
 
-For the latest information visit the website: [http://code.google.com/p/wp-multilingual-sitemap](http://code.google.com/p/wp-multilingual-sitemap/ "Wordpress Multilingual Sitemap")
+For the latest information visit the website: [http://code.google.com/p/wp-multilingual-sitemap/](http://code.google.com/p/wp-multilingual-sitemap/ "Wordpress Multilingual Sitemap")
 
 == Frequently Asked Questions ==
 
