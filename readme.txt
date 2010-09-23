@@ -72,14 +72,17 @@ Here you can find some examples of use:
 	`[wpms-categories-posts child_of=40]`
 
 == Available Parameters ==
+
 = Codex =
-For detailed documentation please visit:
+
 * [Template Documentation for the `wp_list_pages` function](http://codex.wordpress.org/Function_Reference/wp_list_pages): use this with `[wpms-pages]` shortcode
 * [Template Documentation for the `get_posts` function](http://codex.wordpress.org/Template_Tags/get_posts): use this with `[wpms-posts]` and `[wpms-categories-posts]` shortcodes
 * [Template Documentation for the `wp_list_categories` function](http://codex.wordpress.org/Template_Tags/wp_list_categories): use this with `[wpms-categories-posts]` shortcode
 
 = Custom =
+
 In addition, for the `[wpms-posts]` shortcode, you can set another two params:
+
 * _**'title_li'**_: (string) the title and style of the outer list item. Defaults to "Posts". If empty, the title will be not displayed.
 * _**'style'**_: style to display the categories list. The value 'list' displays the categories as list items while empty value generates no special display method (the list items are separated by `<br>` tags). The default value is list (creates list items for an unordered list). 
 
