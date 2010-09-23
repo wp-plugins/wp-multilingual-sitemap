@@ -1,4 +1,4 @@
-﻿=== WordPress Multilingual Sitemap ===
+﻿=== WP Multilingual Sitemap ===
 Contributors: adiaz
 Donate link: http://code.google.com/p/wp-multilingual-sitemap/
 Tags: sitemap, posts, pages, categories, shortcode, wpml, translation, accesibility, html, html5
@@ -6,7 +6,7 @@ Requires at least: 2.8
 Tested up to: 3.0.1
 Stable tag: 0.1
 
-Displays an HTML (Not XML) sitemap of your blog pages (`[wpms-pages]`), posts (`[wpms-posts]`) and posts by categories (`[wpms-categories-posts]`).
+Displays an HTML sitemap of your blog pages (`[wpms-pages]`), posts (`[wpms-posts]`) and posts by categories (`[wpms-categories-posts]`).
 
 == Description ==
 	The plugin adds, in the page/post content, an HTML (Not XML) sitemap of:
