@@ -13,7 +13,7 @@ Allows creating complete multilingual sitemaps of your entire blog.
 	
 = CMS Features =
  
- * Sitemap settings are set through a shortcode added in a post or page
+ * Sitemap settings are set through a **shortcode** added in a post or page
  * Support for pages, posts and custom posts 
  * Support for native WordPress functions parameters
  * No data added to the database
