@@ -1,8 +1,8 @@
 <?php
 /*
-Plugin Name: WordPress Multilingual Sitemap
+Plugin Name: WP Multilingual Sitemap
 Plugin URI: http://code.google.com/p/wp-multilingual-sitemap/
-Description: Adds an HTML (Not XML) sitemap of your blog pages ([wpms-pages]), posts ([wpms-posts] and posts order by category ([wpms-categories-posts]).
+Description: Adds an HTML sitemap of your blog pages ([wpms-pages]), posts ([wpms-posts] and posts order by category ([wpms-categories-posts]).
 Version: 0.1
 Author: Álvaro Díaz Pescador
 Author URI: http://www.agalip.es/

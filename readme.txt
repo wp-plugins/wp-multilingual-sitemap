@@ -86,7 +86,7 @@ In addition, for the `[wpms-posts]` shortcode, you can set another two params:
 * _**'title_li'**_: (string) the title and style of the outer list item. Defaults to "Posts". If empty, the title will be not displayed.
 * _**'style'**_: style to display the categories list. The value 'list' displays the categories as list items while empty value generates no special display method (the list items are separated by `<br>` tags). The default value is list (creates list items for an unordered list). 
 
-For the latest information visit the website: [http://code.google.com/p/wp-multilingual-sitemap/](http://code.google.com/p/wp-multilingual-sitemap/ "Wordpress Multilingual Sitemap")
+For the latest information visit the website: [http://code.google.com/p/wp-multilingual-sitemap/](http://code.google.com/p/wp-multilingual-sitemap/ "WP Multilingual Sitemap")
 
 == Frequently Asked Questions ==
 
@@ -95,7 +95,7 @@ For the latest information visit the website: [http://code.google.com/p/wp-multi
  
 == Installation ==
 1. Upload the entire directory from the downloaded zip file into the /wp-content/plugins/ folder.
-2. Activate the "WordPress Multilingual Sitemap" plugin through the 'Plugins' menu in WordPress.
+2. Activate the "WP Multilingual Sitemap" plugin through the 'Plugins' menu in WordPress.
 3. Add the shortcode(s) to the page(s) / post(s) of your choice.
 		
 		
@@ -115,12 +115,12 @@ This plugin requires WordPress 2.8 or higher. If you use WordPress 2.7 or below,
 	
 == Changelog ==
 
-Release Notes for WordPress Multilingual Sitemap
+Release Notes for WP Multilingual Sitemap
 -------------------------------------------
 
 = v0.1  (2010-09-20) =
 
-	[+] Initial release of WordPress Multilingual Sitemap plugin.
+	[+] Initial release of WP Multilingual Sitemap plugin.
 
 	
 == Follow us on Twitter ==
